@@ -1,0 +1,36 @@
+{
+  "ok": true,
+  "body": {
+    "listId": "q3featured",
+    "entries": [
+      {
+        "contentId": "GNJQKKF",
+        "author": "TDoT",
+        "title": "Смехарь - 100 вопросов",
+        "type": "",
+        "published": "2021-12-08T16:04:00Z"
+      },
+      {
+        "contentId": "LQPTBQC",
+        "author": "TDoT",
+        "title": "Жизненный Смехлыст",
+        "type": "",
+        "published": "2021-04-22T15:22:00Z"
+      },
+      {
+        "contentId": "EGXXJNK",
+        "author": "TDoT",
+        "title": "Жизненный Смехлыст 2",
+        "type": "",
+        "published": "2020-08-28T18:09:22.000000451Z"
+      },
+      {
+        "contentId": "QTNYTSS",
+        "author": "TDoT",
+        "title": "Смешнее жизни",
+        "type": "",
+        "published": "2020-08-26T18:09:22.000000451Z"
+      }
+    ]
+  }
+}
